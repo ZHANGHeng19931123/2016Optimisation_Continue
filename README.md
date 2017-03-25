@@ -1,4 +1,4 @@
-#Projet Optimisation continue
+# Projet Optimisation continue
 
 - YAN Yutong
 - ZHANG Heng
